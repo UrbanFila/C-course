@@ -2,9 +2,11 @@
 
 int main(){
 
-    printf("Naruto Uzumaki\n");
+    printf("First name: Naruto \nLast name: Uzumaki\n");
 
     return 0;
 }
+
+
 
 
